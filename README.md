@@ -76,3 +76,12 @@ This is a list of vocabulary used in the GRE quantitative/math section
 	* Simplifying factorials
 * [Percentages](https://www.khanacademy.org/math/arithmetic/decimals/percent_tutorial/v/describing-the-meaning-of-percent)
 * [Ratios](https://www.khanacademy.org/math/enem/conhecimentos-numericos/razoes-proporcoes/v/introduction-to-ratios-new-hd-version)
+
+-----
+
+## [Powers and Roots](https://www.khanacademy.org/math/pre-algebra/exponents-radicals)
+* [Exponents](https://www.khanacademy.org/math/pre-algebra/exponents-radicals/World-of-exponents/v/exponents-warmup)
+* [Square Root](https://www.khanacademy.org/math/pre-algebra/exponents-radicals/radical-radicals/v/understanding-square-roots)
+* [Exponent properties](https://www.khanacademy.org/math/pre-algebra/exponents-radicals/exponent-properties/e/properties-of-integer-exponents)
+* [Negative exponents](https://www.khanacademy.org/math/pre-algebra/exponents-radicals/negative-exponents-tutorial/v/negative-exponents)
+
