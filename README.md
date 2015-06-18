@@ -5,7 +5,9 @@ Here are some resources and answers to some of the questions you might have when
 -----
 
 [GRE Website](http://www.ets.org/gre)
+
 [Where](https://mygre.ets.org/greweb/action/RegPortal) to take the test
+
 [Register for the test](https://mygre.ets.org/greweb/login/login.jsp?WT.ac=gre_revised_r_btn)
 
 [Sending your scores](http://www.ets.org/gre/revised_general/scores/send/)
@@ -33,12 +35,13 @@ Getting your [Scores](http://www.ets.org/gre/revised_general/scores/get)
 		* So you could just answer C for all the questions
 
 [Scoring Percentiles](http://magoosh.com/gre/2013/gre-score-percentiles/)
+
 [Study Plans](https://gre.magoosh.com/study-plans)
 
-* Sample Questions
-	* [Quantitative Reasoning](https://www.ets.org/gre/revised_general/about/content/quantitative_reasoning)
-	* [Verbal Reasoning](https://www.ets.org/gre/revised_general/about/content/verbal_reasoning)
-	* [Analytical Writing](https://www.ets.org/gre/revised_general/about/content/analytical_writing)
+Sample Questions
+* [Quantitative Reasoning](https://www.ets.org/gre/revised_general/about/content/quantitative_reasoning)
+* [Verbal Reasoning](https://www.ets.org/gre/revised_general/about/content/verbal_reasoning)
+* [Analytical Writing](https://www.ets.org/gre/revised_general/about/content/analytical_writing)
 
 * [PowerPrep Software](https://www.ets.org/gre/revised_general/prepare/powerprep2/) 
 
