@@ -4,7 +4,7 @@ Here are some resources and answers to some of the questions you might have when
 
 -----
 
-[GRE Website](http://www.ets.org/gre)
+[GRE](http://www.ets.org/gre) Home
 
 [Where](https://mygre.ets.org/greweb/action/RegPortal) to take the test
 
@@ -43,9 +43,9 @@ Sample Questions
 * [Verbal Reasoning](https://www.ets.org/gre/revised_general/about/content/verbal_reasoning)
 * [Analytical Writing](https://www.ets.org/gre/revised_general/about/content/analytical_writing)
 
-* [PowerPrep Software](https://www.ets.org/gre/revised_general/prepare/powerprep2/) 
+[PowerPrep Software](https://www.ets.org/gre/revised_general/prepare/powerprep2/) 
 
-* [Calculator tips](http://www.ets.org/gre/revised_general/prepare/quantitative_reasoning/calculator)
+[Calculator tips](http://www.ets.org/gre/revised_general/prepare/quantitative_reasoning/calculator)
 
 -----
 
