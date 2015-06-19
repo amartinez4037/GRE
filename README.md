@@ -65,11 +65,17 @@ Sample Questions
 
 [Math Conventions](http://www.ets.org/s/gre/pdf/gre_math_conventions.pdf) - Notation, terminology and assumptions for the math sections
 
+[Magoosh](http://magoosh.com)
+
 [Magoosh Math Formulas](http://magoosh.resources.s3.amazonaws.com/Magoosh_GRE_Math_Formula_eBook.pdf)
 
 [Magoosh Vocabulary Guide](http://magoosh.resources.s3.amazonaws.com/Magoosh-GRE-Vocab-eBook.pdf)
 
 [Magoosh Vocabulary Flashcards](http://magoosh.resources.s3.amazonaws.com/Magoosh_Vocab_Flashcard_eBook.pdf)
+
+[Quizlet](https://quizlet.com/subject/gre/) - flashcards
+
+[Manhattan Prep](http://www.manhattanprep.com/gre/resources/practice-gre-test-full.cfm)
 
 [Khan Academy](http://www.ets.org/gre/revised_general/prepare/khan_academy) - Links from ETS
 
