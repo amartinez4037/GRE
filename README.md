@@ -34,16 +34,44 @@ Getting your [Scores](http://www.ets.org/gre/revised_general/scores/get)
 	* You will be told explicitely this is the research section
 		* So you could just answer C for all the questions
 
+[FAQ](http://www.ets.org/gre/revised_general/faq)
+
+-----
+
+## Test Scoring
+
+[What's a good score](http://magoosh.com/gre/2012/what-is-a-good-gre-score/) - This really depends on the school and major you are applying to. 
+
+[Example Scores](http://magoosh.com/gre/2013/gre-scores-for-top-universities/) - Here are some example scores for the top universities
+
+[Scores by dicipline](https://magoosh.com/gre/2014/gre-scores/) - Percentile score range by major
+
 [Scoring Percentiles](http://magoosh.com/gre/2013/gre-score-percentiles/)
 
-[Study Plans](https://gre.magoosh.com/study-plans)
+-----
+
+## Preparing for the test - Reviews and resources
 
 Sample Questions
 * [Quantitative Reasoning](https://www.ets.org/gre/revised_general/about/content/quantitative_reasoning)
 * [Verbal Reasoning](https://www.ets.org/gre/revised_general/about/content/verbal_reasoning)
 * [Analytical Writing](https://www.ets.org/gre/revised_general/about/content/analytical_writing)
 
-[PowerPrep Software](https://www.ets.org/gre/revised_general/prepare/powerprep2/) 
+[Study Plans](https://gre.magoosh.com/study-plans)
+
+[PowerPrep Software](https://www.ets.org/gre/revised_general/prepare/powerprep2/) - Includes 2 full length simulated practice tests
+
+[Math Review](http://www.ets.org/s/gre/pdf/gre_math_review.pdf) - PDF
+
+[Math Conventions](http://www.ets.org/s/gre/pdf/gre_math_conventions.pdf) - Notation, terminology and assumptions for the math sections
+
+[Magoosh Math Formulas](http://magoosh.resources.s3.amazonaws.com/Magoosh_GRE_Math_Formula_eBook.pdf)
+
+[Magoosh Vocabulary Guide](http://magoosh.resources.s3.amazonaws.com/Magoosh-GRE-Vocab-eBook.pdf)
+
+[Magoosh Vocabulary Flashcards](http://magoosh.resources.s3.amazonaws.com/Magoosh_Vocab_Flashcard_eBook.pdf)
+
+[Khan Academy](http://www.ets.org/gre/revised_general/prepare/khan_academy) - Links from ETS
 
 [Calculator tips](http://www.ets.org/gre/revised_general/prepare/quantitative_reasoning/calculator)
 
