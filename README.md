@@ -1,75 +1,79 @@
 # GRE
 
-Here are some resources and answers to some of the questions you might have when it comes to the GRE
+Here are some resources, links, and answers to some of the questions you might find useful when it comes to the GRE.
 
 -----
 
-[GRE](http://www.ets.org/gre) Home
+## General 
 
-[Where](https://mygre.ets.org/greweb/action/RegPortal) to take the test
+-----
 
-[Register for the test](https://mygre.ets.org/greweb/login/login.jsp?WT.ac=gre_revised_r_btn)
+[ETS GRE](http://www.ets.org/gre) homepage. All offical information for the GRE as well as signing up for the test can be found here.
 
-[Sending your scores](http://www.ets.org/gre/revised_general/scores/send/)
-* Allowed to send your scores to 4 institutions on test day
-* To send [additional](http://www.ets.org/gre/revised_general/scores/send/asr) scores will be $27 per institution
+Find the nearest [Locations](https://mygre.ets.org/greweb/action/RegPortal) to you for taking the GRE
 
-Getting your [Scores](http://www.ets.org/gre/revised_general/scores/get)
-* Unofficial scores will be reported at the end of the test if you decicde to report your scores
-* Official scores will come in 10-15 days after your test date
+[Registering for the test](https://mygre.ets.org/greweb/login/login.jsp?WT.ac=gre_revised_r_btn)
 
 [Price](http://www.ets.org/gre/revised_general/about/fees/) to sign up - currently $195
 
-[Sections](http://www.ets.org/gre/revised_general/about/content/computer) of the test and how long it takes to take the test
+List of [sections](http://www.ets.org/gre/revised_general/about/content/computer) of the test and how long it takes
 * Overall - 7-8 sections - 4+ hours
 * 2 Analytical Writing Sections - 30 min each
 * 2 Verbal Sections - 30 min each
 * 2 Math Sections - 35 min each
 * 1 Unscored (Experimental) Section - 30/35 min
 	* Randomly chosen section that may appear in any order after the two writing sections
-	* Will not count towards your score
+	* Does not count towards your score
 	* Do not try to guess what section this is! 
 * 1 Research Section - 30/35 min
-	* When included will be the last section 
+	* When included will be the last section of the test
 	* You will be told explicitely this is the research section
-		* So you could just answer C for all the questions
+		* You could just answer C for all the questions without any consequences
 
-[FAQ](http://www.ets.org/gre/revised_general/faq)
+ETS [FAQ](http://www.ets.org/gre/revised_general/faq)
 
 -----
 
 ## Test Scoring
 
-[What's a good score](http://magoosh.com/gre/2012/what-is-a-good-gre-score/) - This really depends on the school and major you are applying to. 
+[Sending your scores](http://www.ets.org/gre/revised_general/scores/send/)
+* Allowed to send your scores to 4 institutions on test day (included in test fee)
+* To send any [additional](http://www.ets.org/gre/revised_general/scores/send/asr) scores will be $27 per institution
 
-[Example Scores](http://magoosh.com/gre/2013/gre-scores-for-top-universities/) - Here are some example scores for the top universities
+Getting your [Scores](http://www.ets.org/gre/revised_general/scores/get)
+* Unofficial scores will be reported at the end of the test if you decicde to report your scores
+* Official scores will be reported 10-15 days after your test date
+
+[What's a good score](http://magoosh.com/gre/2012/what-is-a-good-gre-score/) - This really depends on the school and major you are applying to, but here is an explanation from Magoosh. 
+
+Some [example Scores](http://magoosh.com/gre/2013/gre-scores-for-top-universities/) are provided here for some of the top universities
 
 [Scores by dicipline](https://magoosh.com/gre/2014/gre-scores/) - Percentile score range by major
 
-[Scoring Percentiles](http://magoosh.com/gre/2013/gre-score-percentiles/)
+[Scoring Percentiles](http://magoosh.com/gre/2013/gre-score-percentiles/) - To find what percentile you are in depending on your GRE scores
 
 -----
 
 ## Preparing for the test - Reviews and resources
 
-Sample Questions
+Sample Questions for each section from ETS
 * [Quantitative Reasoning](https://www.ets.org/gre/revised_general/about/content/quantitative_reasoning)
 * [Verbal Reasoning](https://www.ets.org/gre/revised_general/about/content/verbal_reasoning)
 * [Analytical Writing](https://www.ets.org/gre/revised_general/about/content/analytical_writing)
 
-[Study Plans](https://gre.magoosh.com/study-plans)
+[Study Plans](https://gre.magoosh.com/study-plans) - A list of study schedules from Magoosh ranging between 1 week to 6 months. 
 
-[PowerPrep Software](https://www.ets.org/gre/revised_general/prepare/powerprep2/) - Includes 2 full length simulated practice tests
+[PowerPrep Software](https://www.ets.org/gre/revised_general/prepare/powerprep2/) - Includes 2 full length simulated practice tests from ETS. 
 
-[Math Review](http://www.ets.org/s/gre/pdf/gre_math_review.pdf) - PDF
+[Math Review](http://www.ets.org/s/gre/pdf/gre_math_review.pdf) - A PDF math review from ETS.
 
-[Math Conventions](http://www.ets.org/s/gre/pdf/gre_math_conventions.pdf) - Notation, terminology and assumptions for the math sections
+[Math Conventions](http://www.ets.org/s/gre/pdf/gre_math_conventions.pdf) - PDF of notation, terminology and assumptions for the math sections from ETS
 
-[Magoosh](http://magoosh.com)
+[Magoosh](http://magoosh.com) - Awesome resource for information on the GRE including online courses
 
-[Magoosh Math Formulas](http://magoosh.resources.s3.amazonaws.com/Magoosh_GRE_Math_Formula_eBook.pdf)
+[Magoosh Math Formulas](http://magoosh.resources.s3.amazonaws.com/Magoosh_GRE_Math_Formula_eBook.pdf) A PDF of the formulas to know for the test from Magoosh
 
-[Magoosh Vocabulary Guide](http://magoosh.resources.s3.amazonaws.com/Magoosh-GRE-Vocab-eBook.pdf)
+[Magoosh Vocabulary Guide](http://magoosh.resources.s3.amazonaws.com/Magoosh-GRE-Vocab-eBook.pdf) - E
 
 [Magoosh Vocabulary Flashcards](http://magoosh.resources.s3.amazonaws.com/Magoosh_Vocab_Flashcard_eBook.pdf)
 
@@ -77,9 +81,9 @@ Sample Questions
 
 [Manhattan Prep](http://www.manhattanprep.com/gre/resources/practice-gre-test-full.cfm)
 
-[Khan Academy](http://www.ets.org/gre/revised_general/prepare/khan_academy) - Links from ETS
+[Khan Academy](http://www.ets.org/gre/revised_general/prepare/khan_academy) - Links to Khan Academy based on math concepte provided by ETS.
 
-[Calculator tips](http://www.ets.org/gre/revised_general/prepare/quantitative_reasoning/calculator)
+[Calculator tips](http://www.ets.org/gre/revised_general/prepare/quantitative_reasoning/calculator) - Description of the calculator and tips from ETS.
 
 -----
 
